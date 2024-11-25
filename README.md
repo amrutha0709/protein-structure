@@ -52,7 +52,5 @@ This study offers a detailed overview of the advancements and challenges in PSSP
 
 --- 
 
-## 🧑‍💻 Authors
-[Your Name]
 
 
